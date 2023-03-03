@@ -146,7 +146,7 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
                       InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton("⚒️ ᴄʀᴇᴀᴛᴇʀ", url="t.me/Ritik_kashyap_7")],
+                      InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/Ritik_kashyap_7")],
                   ]
              )
     if m.sender_chat:
