@@ -19,11 +19,6 @@
             "required": true,
             "value": "flamemusicbot"
         },
-        "HEROKU_MODE": {
-            "description": "Warning ⚠️! don't Change this, if you change this it will cause of banning your heroku account!",
-            "required": false,
-            "value": "ENABLE"
-        },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
